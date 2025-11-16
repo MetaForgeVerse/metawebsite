@@ -134,7 +134,7 @@ export function ContactSection() {
                     </svg>
                   </a>
                   <a 
-                    href="https://www.instagram.com/metaferge" 
+                    href="https://www.instagram.com/metaforgeverse/?utm_source=ig_web_button_share_sheet" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="bg-slate-900 hover:bg-purple-500/20 p-3 rounded-lg transition-colors group"
