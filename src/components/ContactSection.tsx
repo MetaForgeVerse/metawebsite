@@ -25,7 +25,7 @@ export function ContactSection() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          access_key: "YOUR_WEB3FORMS_KEY", // Заменим после регистрации
+          access_key: "7f2aada9-78ff-41d0-b974-db3e99e917e5",
           name: formData.name,
           email: formData.email,
           message: formData.message,
